@@ -4,3 +4,6 @@ outputs
 
 *.txt
 *.log
+
+.DS_Store
+dist/
